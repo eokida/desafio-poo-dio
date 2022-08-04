@@ -6,7 +6,7 @@
 <h2>🛑 Pré-Requisitos</h2>
 
 <p>
-✅ IDE para desenvolvimento Java (usarei IntelliJ)<br>
+✅ IDE Eclipse para desenvolvimento Java<br>
 ✅ Conhecer a sintaxe da Java<br>
 ✅ Java JDK 8 ou 11<br>
 ✅ Git<br>
